@@ -1,0 +1,19 @@
+{
+  "name": "@types/fmt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "types": "./index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PadRocha/-types-fmt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PadRocha/-types-fmt/issues"
+  },
+  "homepage": "https://github.com/PadRocha/-types-fmt#readme"
+}
