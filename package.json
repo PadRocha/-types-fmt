@@ -1,9 +1,10 @@
 {
   "name": "@types/fmt",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "",
   "types": "./index.d.ts",
+  "deprecated": false,
   "scripts": {},
   "repository": {
     "type": "git",
