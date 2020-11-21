@@ -1,6 +1,6 @@
 {
   "name": "@types/fmt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line output formatting @types.",
   "main": "",
   "types": "index.d.ts",
