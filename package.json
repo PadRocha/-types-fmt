@@ -7,8 +7,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PadRocha/fmt.git",
-    "directory": "types/fmt"
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
   },
   "keywords": [
     "cmd",
