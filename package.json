@@ -5,10 +5,6 @@
   "main": "",
   "types": "index.d.ts",
   "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PadRocha/fmt.git"
-  },
   "keywords": [
     "cmd",
     "cli",
